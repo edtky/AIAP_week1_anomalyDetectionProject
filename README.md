@@ -18,7 +18,7 @@ I wanted to try a few classical anomaly detection techniques to better understan
  - Isolation Foreest
  - One class SVM
 
-The Repartition of data then Gaussian Envelope method was implemented in the 'main.py' script under the source code as it was the best performing algorithm.
+The 'Repartition of data then Gaussian Envelope' method was implemented in the 'main.py' script under the source code as it was the best performing algorithm.
 
 ## Getting Started
 
@@ -48,7 +48,7 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
  - Numenta for their anomaly benchmark dataset.
  - Jeanne and my fellow AIAP apprentices for guiding me through this.
  - Victor Ambonati for his work on Unsupervised Anomaly Detection.
- - My mum, happy mother's day.
+ - **My mum, happy mother's day.**
 
 
 
