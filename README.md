@@ -54,4 +54,4 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 ## Contact
 
-If you face any issues or have any questions, please contact me at edwardtiong@kelaberetive.sg
+If you face any issues or have any questions, please contact me at edwardtiong@kelaberetiv.sg
